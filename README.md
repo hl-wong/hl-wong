@@ -21,7 +21,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hl-wong&theme=react&rank_icon=github&show_icons=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hl-wong&theme=react&layout=compact&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hl-wong&theme=react&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </a>
 
 ![](https://nirzak-streak-stats.vercel.app?user=hl-wong&theme=react)
