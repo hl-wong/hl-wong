@@ -4,7 +4,7 @@
 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hl-wong/)**<br>
 😄 Pronouns: he/him<br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -16,10 +16,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=hl-wong&theme=react&rank_icon=github&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app?user=hl-wong&theme=react)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hl-wong&theme=react&layout=compact&langs_count=20)
+## 📊 GitHub Stats
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hl-wong&theme=react&rank_icon=github&show_icons=true" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hl-wong&theme=react&layout=compact&langs_count=8" />
+</a>
+
+![](https://nirzak-streak-stats.vercel.app?user=hl-wong&theme=react)
 
 <!--
 **hl-wong/hl-wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
