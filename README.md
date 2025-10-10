@@ -3,6 +3,7 @@
 🌱 I’m currently learning **Front-End Development, Java, ASP.NET**<br>
 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hl-wong/)**<br>
 😄 Pronouns: he/him<br>
+⚡ Fun fact: Sometimes I'm lazy, and sometimes I'm serious.<br>
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
