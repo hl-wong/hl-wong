@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm HL Wong
 
-🌱 I’m currently learning **Front-End Development, Java, ASP.NET**<br>
+🌱 I’m currently learning **Front-End Development, Java, C#, ASP.NET, VB.NET**<br>
 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/hl-wong/)**<br>
 😄 Pronouns: he/him<br>
 ⚡ Fun fact: Sometimes I'm lazy, and sometimes I'm serious.<br>
@@ -15,7 +15,15 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+ ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=hl-wong&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📊 GitHub Stats
 <a href="#">
